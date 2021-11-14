@@ -1,10 +1,6 @@
 Hello world!
 12345	
 Good bye!
-<<<<<<< HEAD
-another line from user1
-=======
 line from user2
->>>>>>> 4eabe0f3b125fdcf4e10b7570d3bc284f383152e
 Line from user1
 

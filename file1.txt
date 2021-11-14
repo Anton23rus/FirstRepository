@@ -1,8 +1,6 @@
 Hello world!
 12345	
 Good bye!
-<<<<<<< HEAD
-=======
 Asdf
 Line from user1
->>>>>>> 8557f0236eb003efe273ed3498c4dc15c4109ee9
+
